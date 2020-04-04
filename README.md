@@ -14,4 +14,4 @@ $ npm run test
 
 ## For deploying
 
-$node deploy.js
+$ node deploy.js
