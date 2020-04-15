@@ -1,4 +1,4 @@
-# Blockchain-Etherum-Lottery-Smart-Contract
+# Blockchain-Ethereum-Lottery-Smart-Contract
 
 ## How to use?
 
