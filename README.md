@@ -17,4 +17,4 @@ $ npm run test
 $ node deploy.js
 
 ## Front-end of this contract on:
-https://github.com/tyrion404/Blockchain-ethereum-lottery-Front-end
+https://github.com/xscotophilic/blockchain-ethereum-lottery-front-end
